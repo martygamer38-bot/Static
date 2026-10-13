@@ -1,0 +1,2 @@
+# One RSS feed URL per line (trade press, company newsroom feeds, regulator feeds).
+# Lines starting with # are ignored. Check each feed works before adding.
